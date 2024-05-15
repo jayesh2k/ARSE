@@ -1,5 +1,6 @@
 # ARSE
 Alumni Repository and Search Engine
+
 It is a PHP MySQL project that helps a specific university/college school manages its alumni data. This project has two sides of users UI (user interface): the admin side/school management and the alumnus/alumna’s side. The admin side can manage all the job posted, alumni list, events, forum topics, and the gallery. The alumni site can create an account (to be verified by admin), post a job opportunity, create a forum topic, and join other forums, commit to participate in an upcoming event such as homecoming.
 
 How To Run?
