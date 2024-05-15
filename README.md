@@ -1,4 +1,4 @@
-![alumni](https://github.com/jayesh2k/ARSE/assets/107799307/5ca7caae-0f6f-4679-9b57-a65d50849347)
+
 # ARSE
 Alumni Repository and Search Engine
 
@@ -37,3 +37,14 @@ Admin Login Access Information
 Username: admin
 
 Password: admin123
+
+Alumni Side:
+![home](https://github.com/jayesh2k/ARSE/assets/107799307/db5c969b-d12b-4faf-abec-47d27357ce07)
+![gallery](https://github.com/jayesh2k/ARSE/assets/107799307/d379518f-d357-42c4-b850-0e8caae581d7)
+
+Admin Side:
+
+![admin home](https://github.com/jayesh2k/ARSE/assets/107799307/fa697a07-508f-4a8f-b2e0-15b99e072df2)
+![admin gallery](https://github.com/jayesh2k/ARSE/assets/107799307/2e05d189-1665-47f8-a7db-48354082372c)
+![alumni list](https://github.com/jayesh2k/ARSE/assets/107799307/008aee4e-f57f-4cc9-9537-73633712b055)
+![forums](https://github.com/jayesh2k/ARSE/assets/107799307/e8eabbc7-7829-462b-9fe5-bd58af1d0472)
