@@ -7,7 +7,7 @@ Above all, to run this project you must have installed a virtual server i.e XAMP
 Follow the following steps after Starting Apache and MySQL in XAMPP:
 
 1st Step: Firstly, Extract the file
-2nd Step: After that, Copy the main project folder
+2nd Step: After that, Copy the main project 
 3rd Step: So, you need to Paste in xampp/htdocs/
 Further, Now Connecting Database
 
