@@ -1,3 +1,4 @@
+![alumni](https://github.com/jayesh2k/ARSE/assets/107799307/5ca7caae-0f6f-4679-9b57-a65d50849347)
 # ARSE
 Alumni Repository and Search Engine
 
