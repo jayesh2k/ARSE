@@ -1,6 +1,4 @@
-
-# ARSE
-Alumni Repository and Search Engine
+# Alumni Repository and Search Engine
 
 It is a PHP MySQL project that helps a specific university/college school manages its alumni data. This project has two sides of users UI (user interface): the admin side/school management and the alumnus/alumna’s side. The admin side can manage all the job posted, alumni list, events, forum topics, and the gallery. The alumni site can create an account (to be verified by admin), post a job opportunity, create a forum topic, and join other forums, commit to participate in an upcoming event such as homecoming.
 
@@ -50,3 +48,5 @@ Admin Side:
 ![admin gallery](https://github.com/jayesh2k/ARSE/assets/107799307/2e05d189-1665-47f8-a7db-48354082372c)
 ![alumni list](https://github.com/jayesh2k/ARSE/assets/107799307/008aee4e-f57f-4cc9-9537-73633712b055)
 ![forums](https://github.com/jayesh2k/ARSE/assets/107799307/e8eabbc7-7829-462b-9fe5-bd58af1d0472)
+
+If you want to download .zip file of the code you can download it from the main branch and if you want separate modules, download it from master branch
