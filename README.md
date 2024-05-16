@@ -38,6 +38,8 @@ Username: admin
 
 Password: admin123
 
+Team Members:
+
 Alumni Side:
 ![home](https://github.com/jayesh2k/ARSE/assets/107799307/db5c969b-d12b-4faf-abec-47d27357ce07)
 ![gallery](https://github.com/jayesh2k/ARSE/assets/107799307/d379518f-d357-42c4-b850-0e8caae581d7)
